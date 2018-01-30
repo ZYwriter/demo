@@ -9,8 +9,6 @@ pipeline {
     stage('Test') {
       steps {
         echo 'Hello'
-        catchError()
-        jiraComment(issueKey: 'issueKey', body: 'body')
       }
     }
   }
