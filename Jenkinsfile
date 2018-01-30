@@ -9,6 +9,9 @@ pipeline {
     stage('Test') {
       steps {
         echo 'Hello'
+        hubotApprove(failOnError: true, message: 'ok to test', room: 'automatically', url: 'https://github.com/ZYwriter/demo.git')
+        catchError()
+        jiraComment(issueKey: 'issueKey', body: 'body')
       }
     }
   }
