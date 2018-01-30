@@ -2,19 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12322d3b-3ac3-4349-9cbc-56ad859e13c5" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_3_8_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/originDemo.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/xceder/App.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/xceder/AppTest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/xceder/App.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/xceder/AppTest.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -423,12 +412,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1517278906284</updated>
-      <workItem from="1517278910115" duration="157000" />
+      <workItem from="1517278910115" duration="257000" />
     </task>
+    <task id="LOCAL-00001" summary="创建">
+      <created>1517279078272</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1517279078272</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="157000" />
+    <option name="totallyTimeSpent" value="257000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="44" y="229" width="1188" height="1028" extended-state="0" />
@@ -468,6 +465,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="创建" />
+    <option name="LAST_COMMIT_MESSAGE" value="创建" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
