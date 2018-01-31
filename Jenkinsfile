@@ -12,7 +12,7 @@ pipeline {
       }
     }
     stage('Send email') {
-    def mailRecipients = "your_recipients@company.com"
+    def mailRecipients = "790333234@qq.com"
     def jobName = currentBuild.fullDisplayName
 
     emailext body: '''${SCRIPT, template="groovy-html.template"}''',
